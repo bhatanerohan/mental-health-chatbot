@@ -70,10 +70,4 @@ response = await client.chat.completions.create(
 )
 ```
 
-## License
-
-MIT
-
----
-
 **Note**: This chatbot is for educational purposes. It should not replace professional mental health services.
